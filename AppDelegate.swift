@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PSMagazineFIAP
 //
-//  Created by Italo Ferreira on 08/06/21.
+//  Created by Gabriel Nunes on 08/06/21.
 //  Copyright © 2021 Gabriel Nunes. All rights reserved.
 //
 
